@@ -1,12 +1,12 @@
-#Site Ada.
-Tecnologias
+# Site Ada.
+## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
-HTML
-CSS
-Git
-Github
-Projeto
+- HTML
+- CSS
+- Git
+- Github
+## Projeto
 Desenvolvi esse site no curso da PROGRAMARIA contedo um pouco da historia da programação que as mulheres fez historio na area da programação ADA LOVELACE a mãe da programação  que fez a sua primeira publicação do seu babbage que ela escrevau seu primeiro programa (agoritimo) em 1843.
 
 Acesse o projeto aqui, online!
